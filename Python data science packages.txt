@@ -1,0 +1,12 @@
+Python data science packages
+
+pandas
+Numpy
+Scipy
+matplotlib
+seaborn
+BeautifulSoup
+streamlit
+statsmodels
+lifelines
+PyTorch
